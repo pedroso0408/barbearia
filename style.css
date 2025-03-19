@@ -1,0 +1,20 @@
+body{
+    background: #ccc;
+}
+h1{
+    text-align: center;
+    background: #ccc;
+    
+}
+#banner{
+    width: 100%;
+}
+p{
+    text-align: center;
+}
+#missao{
+    font-size: 20 px
+}
+em strong{
+    color: red;
+}

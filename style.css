@@ -8,6 +8,7 @@ h1{
 }
 #banner{
     width: 100%;
+    
 }
 p{
     text-align: center;
@@ -17,4 +18,26 @@ p{
 }
 em strong{
     color: red;
+}
+.itens {
+	font-style: italic
+}
+
+.beneficios{
+	background: #FFFFFF;
+	padding: 20px;
+}
+
+h2 {
+	text-align: center;
+}
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagembeneficios {
+	width: 50%;
 }
